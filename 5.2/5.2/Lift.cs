@@ -10,6 +10,7 @@ namespace _5._2
 {
     class Lift
     {
+        public int aoaoaoa;
         public enum upd { Go, NotGo };
         public enum doors { Open, Closed };
         public upd apd;
